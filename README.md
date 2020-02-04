@@ -5,3 +5,5 @@ Nope, its just code.
 Maybe. I have a few ideas on how.
 ## How'd ya do it?
 They used confuser and everyone knows how to get past confuser :eyes:
+
+Be it, a custom confuser. But still easily decompiled.
